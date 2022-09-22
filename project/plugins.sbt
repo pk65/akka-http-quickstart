@@ -1,0 +1,8 @@
+addSbtPlugin("io.spray" % "sbt-revolver" % "0.9.1")
+addSbtPlugin("net.virtual-void"          % "sbt-dependency-graph" % "0.10.0-RC1")
+addSbtPlugin("org.scoverage"             % "sbt-scoverage"     % "2.0.2")
+addSbtPlugin("org.scalameta"             % "sbt-scalafmt"      % "2.4.6")
+addSbtPlugin("io.github.davidgregory084" % "sbt-tpolecat"      % "0.4.1")
+addSbtPlugin("ch.epfl.scala"             % "sbt-scalafix"      % "0.10.1")
+addSbtPlugin("io.github.davidmweber"     % "flyway-sbt"        % "6.5.0")
+addSbtPlugin("com.github.sbt"            % "sbt-native-packager"  % "1.9.11")
